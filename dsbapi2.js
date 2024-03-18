@@ -159,4 +159,4 @@ function uuidv4() {
     });
 }
 
-module.exports = { DSBApi };
+module.exports = DSBApi;
