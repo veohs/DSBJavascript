@@ -1,2 +1,2 @@
-# DSBJavascript
- DSBApi übersetzung von Python zu JavaScript
+# dsbix JavaScript
+WORK IN PROGRESS
